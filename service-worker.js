@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "05abb9fa4b9b2104783929f60fc6f60e"
+    "revision": "e92f98a0565e9636050a28a7bb133ad6"
   },
   {
     "url": "assets/css/0.styles.ade29b3b.css",
@@ -174,12 +174,12 @@ self.__precacheManifest = [
     "revision": "a1c42d20608eab9cfcb12cbf7fe92042"
   },
   {
-    "url": "assets/js/43.e0306dc6.js",
-    "revision": "44032be1e548363742af9862efa3c441"
+    "url": "assets/js/43.df80feaa.js",
+    "revision": "4377449fb1b3e91178203af041e7739b"
   },
   {
-    "url": "assets/js/44.e89a14c7.js",
-    "revision": "b9ef7b09821a20f108ef9e6ece4e3026"
+    "url": "assets/js/44.9894c05d.js",
+    "revision": "7b4e7b47eff1cb2bbf4a6c4628553187"
   },
   {
     "url": "assets/js/45.100122eb.js",
@@ -194,24 +194,24 @@ self.__precacheManifest = [
     "revision": "5bf4aadecec3633cf8fc0256c001d220"
   },
   {
-    "url": "assets/js/48.04acde43.js",
-    "revision": "2f2a89910def1b2d504d730cdc0e3b14"
+    "url": "assets/js/48.fa0788ea.js",
+    "revision": "ea5fff09bd544c891087dcbf291513c0"
   },
   {
-    "url": "assets/js/49.d5211a3c.js",
-    "revision": "7f3a7553fcb22540205e1e7fd27fbf05"
+    "url": "assets/js/49.b7f5fdec.js",
+    "revision": "e5c58e441dcf51fae64942726af07ba2"
   },
   {
     "url": "assets/js/5.e606ebdb.js",
     "revision": "f0f5aae9a8fa85faa05825dcc1661b4a"
   },
   {
-    "url": "assets/js/50.a3f5074c.js",
-    "revision": "fb84bf8280286e9653c489bc06fa535b"
+    "url": "assets/js/50.346675be.js",
+    "revision": "68d756b2b34efb36c14ad5ff47d25923"
   },
   {
-    "url": "assets/js/51.3cfcae72.js",
-    "revision": "2f7e7c4f8a9591aff013317ae89e41b4"
+    "url": "assets/js/51.3f8c1f7b.js",
+    "revision": "64254593e987b37ef0984db13c3b75ee"
   },
   {
     "url": "assets/js/52.b7d2442c.js",
@@ -234,8 +234,8 @@ self.__precacheManifest = [
     "revision": "1c35c6de08180dbe1a82a4de56290891"
   },
   {
-    "url": "assets/js/app.bbf5abb1.js",
-    "revision": "18bca10a53c0c056f6af3797e6658270"
+    "url": "assets/js/app.d8717a2f.js",
+    "revision": "347ce23a86e97b2c51d44f19132c5008"
   },
   {
     "url": "assets/js/baidu.js",
@@ -251,31 +251,31 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/guide/index.html",
-    "revision": "03b02702676c2e687295b94f896f36f3"
+    "revision": "92ebbbcf4fd943db8022fc16402af5f9"
   },
   {
     "url": "categories/index.html",
-    "revision": "5bf09ac8acb2875b3e0f58515674c334"
+    "revision": "cd706743fabb790754ecd174a0a68676"
   },
   {
     "url": "categories/VuePress -/index.html",
-    "revision": "ebe7ba75b03598152ac54090bc24781d"
+    "revision": "5bdce0af55824d2612582c12ea8d4474"
   },
   {
     "url": "categories/vuepress教程/index.html",
-    "revision": "29c1f4a497aa608db41f1724c7afef4d"
+    "revision": "c0639408ce24508caa8fa8b3b284e44d"
   },
   {
     "url": "categories/作者 -/index.html",
-    "revision": "e5cfea1810e2a70de85da561007f6f12"
+    "revision": "9b83166862b60339ea6e90a5e5137c43"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "cecddedba8a35b320537a6e3a4f52037"
+    "revision": "09681038d6d977898f622054d124c005"
   },
   {
     "url": "categories/电商/index.html",
-    "revision": "0c2d172206a329dd65912b603fca7b3e"
+    "revision": "ed3c12de7ed23fb7ac0e3c24247eff0e"
   },
   {
     "url": "css/style.css",
@@ -283,11 +283,11 @@ self.__precacheManifest = [
   },
   {
     "url": "guide.md/index.html",
-    "revision": "16833e9b643e691995e1c04e7fd0b7a2"
+    "revision": "90e2f5b0a58935854f09e6d009cba947"
   },
   {
     "url": "guide/index.html",
-    "revision": "453860d256beb335f5dcf051c86db6a2"
+    "revision": "eaf724c32f97662db576010ad69449c7"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -387,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0721e80732812c344ed05cec6550161a"
+    "revision": "b83214c02ea781c54c051d8ee2446de8"
   },
   {
     "url": "js/custom.js",
@@ -395,91 +395,91 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "c133b7361d33915986183489dd43d0c1"
+    "revision": "fccd07120c80ac0f4fd2d872bb61fd0c"
   },
   {
     "url": "tags/Github/index.html",
-    "revision": "9a333b74958c765a3322fc4e7681291c"
+    "revision": "e02d49b5ff32945a963f5f4fad312b76"
   },
   {
     "url": "tags/VuePress/index.html",
-    "revision": "0fce72994a733b062782542cd188f857"
+    "revision": "061d54f1c0bbdfa75c76ef531277e35c"
   },
   {
     "url": "tags/关于我/index.html",
-    "revision": "5a1cf371d04f3eb24fd950fb107a62db"
+    "revision": "6eded0b56000db9c492f31b51090d1e3"
   },
   {
     "url": "tags/博客/index.html",
-    "revision": "ff91632b6821c7bb07b67f9053aaeaeb"
+    "revision": "5ef53e2a59bd74d583228aba4c136cf1"
   },
   {
     "url": "tags/导航网站/index.html",
-    "revision": "fec25ec22e85e39f2105f2c9209c47fd"
+    "revision": "6fcfb3fcef62adb80d6d71ce4e27c6ee"
   },
   {
     "url": "tags/工具箱/index.html",
-    "revision": "b0d787ad105300fafed4ac7e4591aec2"
+    "revision": "7e5ef8a23f4585d8ce35e41a13afc2a5"
   },
   {
     "url": "tags/抖音/index.html",
-    "revision": "1cefe653f8ef31ed238d40dacfc18fb9"
+    "revision": "698d9dc5fbdf59e22a91d66c05ac413a"
   },
   {
     "url": "tags/持续集成/index.html",
-    "revision": "641e01256bce33f903512badbb235d70"
+    "revision": "57c21c28d6293b9440d80eb7d377c0d8"
   },
   {
     "url": "tags/教程/index.html",
-    "revision": "f1c081936c0b0e2dd1cc2da8fa1a0764"
+    "revision": "597925e0f864352816acae5ccdda0551"
   },
   {
     "url": "tags/电商/index.html",
-    "revision": "16a91b672c933c4709e23d57354220a5"
+    "revision": "aa7f8be8dc148c553b300c3b1772921b"
   },
   {
     "url": "tags/站点导航/index.html",
-    "revision": "dc3559515213e3f7307b1b1945e4d497"
+    "revision": "3899cbc1135818d42ed7ad21d0dfd578"
   },
   {
     "url": "tags/评论/index.html",
-    "revision": "b0396a96e1bd0477d4c6db13cd943c7d"
+    "revision": "5ed7f2b4cb33b23721cc9ce0d30b1e8d"
   },
   {
     "url": "tags/零基础/index.html",
-    "revision": "73cb38b987f3316d1bd08547ba30c045"
+    "revision": "d4c9f9c24efb5d9131036afcf352642c"
   },
   {
     "url": "timeline/index.html",
-    "revision": "d015477b2b77d6f14c477b7bbd7ee299"
+    "revision": "bda4f2da6f96883b00a67b28ab44af6b"
   },
   {
     "url": "导航站/index.html",
-    "revision": "f7e6d238cd9332637661cb380ac5ef77"
+    "revision": "6ce83a3183dc38e07f253fb41b254f30"
   },
   {
     "url": "技术文章/博客插件/插件文章.html",
-    "revision": "9935cd4b1b17ea44277819283383c40f"
+    "revision": "4eae0c1f31983bc36062671f75c3ad7f"
   },
   {
     "url": "技术文章/建站指南/pl.html",
-    "revision": "f62d5ceb80914202c451f3d91880c363"
+    "revision": "e4f9396ab648cd07cf6ff94f6601ada4"
   },
   {
     "url": "技术文章/建站指南/senran02.html",
-    "revision": "d613ceaaa5f711dcbcc8f3e21c93ebf7"
+    "revision": "727afbb9333ac7d5804f90a7252eb612"
   },
   {
     "url": "技术文章/建站指南/senran03.html",
-    "revision": "eaefef11096aaff930961a3cb320678a"
+    "revision": "bb744b7c70129970a36fbf1fbec229a5"
   },
   {
     "url": "技术文章/建站指南/vuepress.html",
-    "revision": "bea26a649b70538fa84d36cbcd0a6877"
+    "revision": "2c353d86d4983ec47d77f66ed596d7d0"
   },
   {
     "url": "电商自媒体/life.html",
-    "revision": "a9576ed1d6cf6e589f1453acc7a8a6cc"
+    "revision": "317737f1d41ed8d75baf74f01a93bc5e"
   },
   {
     "url": "羡巡客栈.png",
